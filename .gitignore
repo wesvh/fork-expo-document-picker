@@ -1,0 +1,13 @@
+# Ignorar archivos generados por Node.js
+node_modules/
+
+# Ignorar archivos generados por el entorno de desarrollo
+dist/
+build/
+coverage/
+
+# Ignorar archivos de configuración local
+.env
+
+# Ignorar archivos de registro
+*.log
