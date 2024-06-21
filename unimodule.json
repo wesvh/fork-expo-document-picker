@@ -1,4 +1,4 @@
 {
-  "name": "expo-document-picker",
+  "name": "fork-expo-document-picker",
   "platforms": ["ios", "android"]
 }

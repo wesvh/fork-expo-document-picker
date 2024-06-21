@@ -1,6 +1,6 @@
 {
   "name": "fork-expo-document-picker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "FORK OF Provides access to the system's UI for selecting documents from the available providers on the user's device.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -17,20 +17,18 @@
   "keywords": [
     "react-native",
     "expo",
-    "expo-document-picker",
+    "fork-expo-document-picker",
     "document-picker"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/expo.git",
-    "directory": "packages/expo-document-picker"
+    "url": "https://github.com/wesvh/fork-expo-document-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/expo/expo/issues"
+    "url": "https://github.com/wesvh/fork-expo-document-picker/issues"
   },
   "author": "650 Industries, Inc.",
   "license": "MIT",
-  "homepage": "https://docs.expo.dev/versions/latest/sdk/document-picker/",
   "jest": {
     "preset": "expo-module-scripts"
   },
